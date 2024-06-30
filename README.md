@@ -10,46 +10,41 @@ Bem-vindo(a) à ficha técnica da análise de dados focada no cálculo do risco 
 Risco Relativo - Banco Super Caja 
 
 
-<details>
-<summary><b>Objetivo</b></summary>
+**Objetivo**
   
 O objetivo desta análise é identificar o perfil de clientes com risco de inadimplência, desenvolver uma pontuação de crédito por meio da análise de dados e avaliar o risco relativo. Dessa forma, será possível classificar os clientes atuais e potenciais em diferentes categorias de risco com base em sua probabilidade de inadimplência. Esta classificação permitirá ao banco tomar decisões informadas sobre a concessão de crédito, reduzindo o risco de empréstimos não reembolsáveis. Além disso, a integração dessas métricas fortalecerá a capacidade do modelo de identificar riscos, contribuindo para a solidez financeira e a eficiência operacional do banco.
 
 Este projeto reveste-se de uma importância crucial para o banco Super Caja pois a equipe de análise de crédito
 </details>
 
-<details>
-<summary><b>Equipe</b></summary>
+**Equipe**
 
 Trabalhei de forma independente neste projeto, assumindo todas as responsabilidades, desde o planejamento até a execução e análise dos resultados. Apesar de ser um projeto individual, busquei feedback de colegas e auxílio quando necessário, priorizando a entrega de qualidade. Mesmo atuando sozinha, reconheço a importância da aprendizagem colaborativa e valorizo as contribuições de outras colegas ao buscar insights e perspectivas externas e diferentes. A capacidade de gerenciar todas as etapas do projeto de forma independente me proporcionou um valioso aprendizado e desenvolvimento de habilidades em diversas áreas, desde análise de dados até comunicação eficaz, ao mesmo tempo em que pude perceber a importância da colaboração para enriquecer o resultado final.
 
 </details>
 
-<details>
-<summary><b> 💻📉Ferramentas e Tecnologia</b></summary>
+ **💻📉Ferramentas e Tecnologia**
 
 
 **BigQuery(Linguagem SQL):** Utilizei BigQuery para importar, limpar e tratar os dados iniciais, realizar cálculos de métricas e manipulações, alterações dos tipos de dados, além de criar variáveis adicionais conforme necessário.
 
-**Google Colab(Linguagem Python):** Utilizei o Google Colab para realizar análises estatísticas avançadas, como a construção de matrizes de confusão e a implementação de modelos de regressão logística. Esta plataforma oferece um ambiente colaborativo baseado na nuvem, que suporta uma variedade de bibliotecas e ferramentas essenciais para ciência de dados. A integração com o Google Drive facilita o acesso a conjuntos de dados armazenados na nuvem, enquanto a execução em GPUs proporciona um processamento rápido e eficiente. Essa combinação de ferramentas e tecnologias permite explorar dados complexos, desenvolver modelos preditivos robustos e realizar avaliações detalhadas do desempenho dos modelos, fundamentais para projetos de análise de dados e machine learning
+**Google Colab(Linguagem Python):** Utilizei o Google Colab para realizar análises estatísticas avançadas, como a construção de matrizes de confusão e a implementação de modelos de regressão logística. Esta plataforma oferece um ambiente colaborativo baseado na nuvem, que suporta uma variedade de bibliotecas e ferramentas essenciais para ciência de dados. A integração com o Google Drive facilita o acesso a conjuntos de dados armazenados na nuvem, enquanto a execução em GPUs proporciona um processamento rápido e eficiente. Essa combinação de ferramentas e tecnologias permite explorar dados complexos, desenvolver modelos preditivos robustos e realizar avaliações detalhadas do desempenho dos modelos, fundamentais para projetos de análise de dados e machine learning.
 
-**Python:** Uma linguagem de programação versátil e poderosa, foi empregado neste projeto para conduzir uma análise de regressão linear. Além disso, Python foi utilizado para criar gráficos de dispersão.
-
-**Power BI:** Uma ferramenta de visualização de dados da Microsoft, desempenhou um papel fundamental neste projeto ao criar um dashboard abrangente e informativo. Este dashboard integrava diversos dados da base de dados, proporcionando uma visão holística e detalhada do cenário da indústria musical em 2023.A capacidade de conectar e consolidar dados de diferentes fontes, a ampla variedade de opções de visualização e a facilidade de compartilhamento foram aspectos essenciais que contribuíram para a criação de um painel.
+**Looker Studio:** Utilizei o Looker Studio para criar visualizações gráficas e apresentar insights obtidos durante a análise dos dados. Esta plataforma oferece uma interface intuitiva e poderosa para explorar, visualizar e compartilhar informações de forma eficaz. Com o Looker Studio, pude gerar dashboards interativos, gráficos dinâmicos e relatórios personalizados que facilitaram a comunicação de descobertas importantes.
 
 
 </details>
 
 
-<details>
-<summary><b>Processamento de dados</b></summary>
+**Dados utilizados na análise**
+user_info: dados gerais dos clientes
+loans_outstanding: dados referente ao tipo de empréstimos e quantidade
+loans_detail: dados sobre o número de atrasos de pagamento de empréstimos, uso de linhas de crédito e relação ao seu limit e taxa de endividamento 
+default: dados dos clientes inadimplentes e adimplentes
 
-
-<details>
-<summary><b>Obtenção de dados</b></summary>
+**Processo de análise**
   
-Os dados foram obtidos através arquivos CVS nomeados como "track_in_spotify", "track_in_competition" e "track,technical_info".
-
+*
 
 **Importação da base de dados**
 
