@@ -6,18 +6,18 @@ Bem-vindo(a) à ficha técnica da análise de dados focada no cálculo do risco 
 
 
 
-#Título do Projeto
+# Título do Projeto
 Risco Relativo - Banco Super Caja 
 
 
-#Objetivo
+# Objetivo
   
 O objetivo desta análise é identificar o perfil de clientes com risco de inadimplência, desenvolver uma pontuação de crédito por meio da análise de dados e avaliar o risco relativo. Dessa forma, será possível classificar os clientes atuais e potenciais em diferentes categorias de risco com base em sua probabilidade de inadimplência. Esta classificação permitirá ao banco tomar decisões informadas sobre a concessão de crédito, reduzindo o risco de empréstimos não reembolsáveis. Além disso, a integração dessas métricas fortalecerá a capacidade do modelo de identificar riscos, contribuindo para a solidez financeira e a eficiência operacional do banco.
 
 Este projeto reveste-se de uma importância crucial para o banco Super Caja pois a equipe de análise de crédito
 </details>
 
-**Equipe**
+# Equipe
 
 Trabalhei de forma independente neste projeto, assumindo todas as responsabilidades, desde o planejamento até a execução e análise dos resultados. Apesar de ser um projeto individual, busquei feedback de colegas e auxílio quando necessário, priorizando a entrega de qualidade. Mesmo atuando sozinha, reconheço a importância da aprendizagem colaborativa e valorizo as contribuições de outras colegas ao buscar insights e perspectivas externas e diferentes. A capacidade de gerenciar todas as etapas do projeto de forma independente me proporcionou um valioso aprendizado e desenvolvimento de habilidades em diversas áreas, desde análise de dados até comunicação eficaz, ao mesmo tempo em que pude perceber a importância da colaboração para enriquecer o resultado final.
 
