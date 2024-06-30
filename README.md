@@ -4,8 +4,7 @@
 
 Bem-vindo(a) à ficha técnica da análise de dados focada no cálculo do risco relativo da empresa financeira fictícia Super Caja. Este documento oferece uma visão abrangente do projeto, destacando como a equipe de análise de crédito pode utilizar os dados para identificar e mitigar os riscos associados ao crédito. A compreensão detalhada do contexto em que a equipe opera é fundamental para tomar decisões estratégicas e informadas que promovam a estabilidade e o crescimento do negócio.
 
-<details>
-  <summary><strong style="font-size: 16px;">**Título do Projeto**</strong></summary>
+
 
 **Título do Projeto**
 Risco Relativo - Banco Super Caja 
