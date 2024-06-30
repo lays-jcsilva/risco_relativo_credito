@@ -23,7 +23,7 @@ Trabalhei de forma independente neste projeto, assumindo todas as responsabilida
 
 </details>
 
- **💻📉Ferramentas e Tecnologia**
+# 💻📉Ferramentas e Tecnologias
 
 
 **BigQuery(Linguagem SQL):** Utilizei BigQuery para importar, limpar e tratar os dados iniciais, realizar cálculos de métricas e manipulações, alterações dos tipos de dados, além de criar variáveis adicionais conforme necessário.
@@ -36,13 +36,13 @@ Trabalhei de forma independente neste projeto, assumindo todas as responsabilida
 </details>
 
 
-**Dados utilizados na análise**
+# Dados utilizados na análise
 user_info: dados gerais dos clientes
 loans_outstanding: dados referente ao tipo de empréstimos e quantidade
 loans_detail: dados sobre o número de atrasos de pagamento de empréstimos, uso de linhas de crédito e relação ao seu limit e taxa de endividamento 
 default: dados dos clientes inadimplentes e adimplentes
 
-**Processo de análise**
+# Processo de análise
   
 *
 
