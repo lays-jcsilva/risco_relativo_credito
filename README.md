@@ -63,7 +63,7 @@ Trabalhei de forma independente neste projeto, assumindo todas as responsabilida
   
 * Regressão Logística: Foi realizada uma análise preditiva do risco de inadimplência utilizando regressão logística, uma técnica robusta amplamente reconhecida por sua capacidade de modelar e prever comportamentos de risco com base em variáveis significativas.
 
-* Se quiser ver mais detalhes sobre essa etapa, [clique aqui](https://tricolor-puck-1da.notion.site/Projeto-3-Ficha-T-cnica-An-lise-de-Dados-aeed49440a6e4377bd9f168c9f0c65b6).
+* Se quiser ver mais detalhes sobre essa etapa, [clique aqui](https://tricolor-puck-1da.notion.site/Projeto-3-Ficha-T-cnica-An-lise-de-Dados-c2348ee8db3d42be881ab0b83bbfa254).
 
 
 ## Hipótese 1: Os mais jovens correm um risco maior de Inadimplência:
