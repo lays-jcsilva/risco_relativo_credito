@@ -108,7 +108,7 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## Links de Interesse:
 
-- [Google Colab Notebook](https://colab.research.google.com/drive/1sSYz70wLkZW-8jjpCLm05RFka0CkrOPl?authuser=1#scrollTo=Ry0qtHrmui5y)
+- [Google Colab Notebook](https://colab.research.google.com/drive/11FDmn8cMnbbneUHnjJFMojYBUW0z0dTn?authuser=0#scrollTo=AFKiBQHOMArW)
 
 ## Limitações:
 
