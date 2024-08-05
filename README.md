@@ -100,7 +100,7 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## Links de Interesse:
 
-- [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b290d6c1-61b9-40c4-9538-3990dc14fcb6)
+- [Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/9e927c1f-7dca-44b3-ba24-0963a8c650ff/page/p_rx50y2zkjd/edit)
 - [Google Colab Notebook](https://colab.research.google.com/drive/1sSYz70wLkZW-8jjpCLm05RFka0CkrOPl?authuser=1#scrollTo=Ry0qtHrmui5y)
 
 ## Limitações:
