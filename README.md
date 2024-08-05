@@ -116,8 +116,8 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## Dashboard:
 
-![image](https://github.com/user-attachments/assets/d39d3468-2d39-4279-a262-127efe364ba6)
-
+![image](https://github.com/user-attachments/assets/d3e450b1-915b-4cb7-9b79-88f881383d57)
+![image](https://github.com/user-attachments/assets/ab082542-5844-4b37-ba49-635904f3c59e)
 
 ![image](https://github.com/user-attachments/assets/ebd061c0-72e6-4b6c-9ffa-2f57566b8198)
 
