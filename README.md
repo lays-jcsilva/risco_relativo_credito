@@ -100,11 +100,17 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## Links de Interesse:
 
-- [Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/9e927c1f-7dca-44b3-ba24-0963a8c650ff/page/p_rx50y2zkjd/edit)
 - [Google Colab Notebook](https://colab.research.google.com/drive/1sSYz70wLkZW-8jjpCLm05RFka0CkrOPl?authuser=1#scrollTo=Ry0qtHrmui5y)
 
 ## Limitações:
 
 - **Falta de Informações Cruciais:** Ausência de informações como moeda utilizada, valores de empréstimos anteriores, escolaridade, patrimônio e valores das parcelas dos empréstimos que poderiam enriquecer a análise.
+
+## Dashboard:
+
+![image](https://github.com/user-attachments/assets/ebd061c0-72e6-4b6c-9ffa-2f57566b8198)
+
+
+
 
 
