@@ -1,3 +1,11 @@
+
+![image](https://github.com/user-attachments/assets/67896637-325d-4689-9667-1a81edb2dd45)
+
+
+
+
+
+
 # 📊📈 Análise de Risco Relativo no Banco Super Caja 
 
 💡 Projeto: Risco Relativo  - Análise dos empréstimos do banco Super Caja 
